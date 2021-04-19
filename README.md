@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi Im Nikoloz! 👋
+-----------------------------------------------
+Energetic Software Engineer with an Associate’s in Computer Science and experience in Ruby on Rails and JavaScript based programming. Excellent communication and interpersonal skills and motivated to establish priorities, manage time productively and perform well under pressure. Able to professionally work with confidential and sensitive data, and always learning new technologies and systems. Persistent in pursuing goals and deadlines. Trilingual in English, Georgian and Russian.
 
-<!--
-**nikolozc/nikolozc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Projects
+-----------------------------------------------
+**Visualizers**, github | demo
+Web application to visualize different sort algorithms and their runtimes
+- Developed React/JavaScript front-end and Rails/Active Record/Postgres back-end application.
+- Implemented ChartJs library
 
-Here are some ideas to get you started:
+##Get in touch 📫
+-----------------------------------------------
+https://www.linkedin.com/in/nikoloz-chapichadze/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Skills
+-----------------------------------------------
+C++, C#, Java, JavaScript, Ruby, Rails, React, SQL, CSS, Git, Unity
