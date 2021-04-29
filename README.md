@@ -12,7 +12,7 @@ Application made in Unity that visualizes different pathfinding algorithms
 - Object Oriented Programming 
 - UI
 - Pathfinding algorithms
-
+        ----------
 **Visualizers**, githublink
 
 Web application to visualize different sort algorithms and their runtimes
