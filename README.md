@@ -4,9 +4,20 @@ Energetic Software Engineer with an Associate’s in Computer Science and experi
 
 ### Projects
 -----------------------------------------------
+**PathFinder Unity**,githublink
+
+Application made in Unity that visualizes different pathfinding algorithms
+- Unity Engine 
+- C#
+- Object Oriented Programming 
+- UI
+- Pathfinding algorithms
+
 **Visualizers**, githublink
+
 Web application to visualize different sort algorithms and their runtimes
-- Developed React/JavaScript front-end and Rails/Active Record/Postgres back-end application.
+- React/JavaScript front-end 
+- Rails/Active Record/Postgres back-end
 - Implemented ChartJs library
 
 ### Get in touch 📫
