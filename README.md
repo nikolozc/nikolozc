@@ -4,7 +4,7 @@ Energetic Software Engineer with an Associate’s in Computer Science and experi
 
 ## Projects
 -----------------------------------------------
-### **PathFinder Unity**,githublink
+### **PathFinder Unity**,https://github.com/nikolozc/PathFinderUnity
 
 Application made in Unity that visualizes different pathfinding algorithms
 - Unity Engine 
