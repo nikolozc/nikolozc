@@ -4,7 +4,7 @@ Energetic Software Engineer with an Associate’s in Computer Science and experi
 
 ### Projects
 -----------------------------------------------
-**Visualizers**, github | demo
+**Visualizers**, githublink
 Web application to visualize different sort algorithms and their runtimes
 - Developed React/JavaScript front-end and Rails/Active Record/Postgres back-end application.
 - Implemented ChartJs library
