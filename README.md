@@ -4,7 +4,7 @@ Energetic Software Engineer with an Associate’s in Computer Science and experi
 
 ### Projects
 -----------------------------------------------
-**PathFinder Unity**,githublink
+###### **PathFinder Unity**,githublink
 
 Application made in Unity that visualizes different pathfinding algorithms
 - Unity Engine 
@@ -13,7 +13,7 @@ Application made in Unity that visualizes different pathfinding algorithms
 - UI
 - Pathfinding algorithms
         
-######Visualizers, githublink
+###### **Visualizers**, githublink
 
 Web application to visualize different sort algorithms and their runtimes
 - React/JavaScript front-end 
