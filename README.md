@@ -10,13 +10,7 @@ Application made in Unity that visualizes different pathfinding algorithms
 - Object Oriented Programming 
 - UI
 - Pathfinding algorithms
-        
-### **Visualizers**, https://github.com/nikolozc/visualizers_frontend/
-
-Web application to visualize different sort algorithms and their runtimes
-- React/JavaScript front-end 
-- Rails/Active Record/Postgres back-end
-- Implemented ChartJs library
+ 
 
 ## Get in touch 📫
 https://www.linkedin.com/in/nikoloz-chapichadze/
