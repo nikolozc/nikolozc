@@ -11,7 +11,7 @@ https://www.linkedin.com/in/nikoloz-chapichadze/
 C++, C#, Java, JavaScript, Ruby, Rails, React, SQL, CSS, Git, Unity
 
 ## Projects
-### **PathFinder Unity**,https://github.com/nikolozc/LINK
+### **PathFinder Unity**,https://github.com/nikolozc/UnityPathFinder
 
 Application made in Unity that visualizes different pathfinding algorithms
 - Unity Engine 
