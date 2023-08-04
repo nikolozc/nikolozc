@@ -14,17 +14,17 @@ VB, C++, C#, Java, JavaScript, Ruby, Rails, React, SQL, CSS, Git, Unity
 ### **PathFinder Unity**, https://github.com/nikolozc/UnityPathFinder
 
 Application made in Unity that visualizes different pathfinding algorithms
-● Unity Engine 
-● C#
-● Object Oriented Programming 
-● UI
-● Pathfinding algorithms
+- Unity Engine 
+- C#
+- Object Oriented Programming 
+- UI
+- Pathfinding algorithms
 
 ### **MyWardrobeManager**, Set to private as of now 
 
 Application made in .Net WinForms and SSMS
-●	.Net
-●	WinForms
-●	SQL
-●	Object Oriented Programming
-●	UI
+-	.Net
+-	WinForms
+-	SQL
+-	Object Oriented Programming
+-	UI
